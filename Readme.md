@@ -1,4 +1,4 @@
-# MERN-CRUD Books Project
+# Book Management System
 
 The MERN-CRUD Books Project is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) that allows users to perform CRUD (Create, Read, Update, Delete) operations on a collection of books. This project serves as a comprehensive example of how to develop a modern web application.
 
